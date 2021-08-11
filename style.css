@@ -1,0 +1,39 @@
+
+body{
+    background-color: rgb(155, 204, 236);
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+article{
+    display: flex;
+    justify-content: center;
+}
+.h_one_name{
+
+}
+.div_block{
+
+}
+.section_block{
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.img{
+
+}
+.h3_h3{
+
+}
+.ul_in_block{
+
+}
+.li_in_block{
+    list-style-type: none;
+}
+.div_text_column{
+    display: flex;
+    flex-direction: column;
+}
