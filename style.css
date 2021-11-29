@@ -37,3 +37,26 @@ article{
     display: flex;
     flex-direction: column;
 }
+html{
+    width: 100%;
+    height: 100%;
+}
+.body_start{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.divFirstPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.button_phone{
+    display: flex;
+    margin: auto;
+}
+.button_tablet{
+    display: flex;
+    margin: auto;
+}
